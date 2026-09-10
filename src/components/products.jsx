@@ -1,0 +1,68 @@
+const products = [
+  {
+    id: 1,
+    title: "Wireless Bluetooth Headphones",
+    price: 2499,
+    category: "Electronics",
+    image: "https://picsum.photos/400/400?random=1",
+    rating: 4.5,
+  },
+  {
+    id: 2,
+    title: "Smart Watch Series 8",
+    price: 4999,
+    category: "Electronics",
+    image: "https://picsum.photos/400/400?random=2",
+    rating: 4.3,
+  },
+  {
+    id: 3,
+    title: "Men's Casual Sneakers",
+    price: 3499,
+    category: "Fashion",
+    image: "https://picsum.photos/400/400?random=3",
+    rating: 4.6,
+  },
+  {
+    id: 4,
+    title: "Laptop Backpack",
+    price: 1899,
+    category: "Fashion",
+    image: "https://picsum.photos/400/400?random=4",
+    rating: 4.2,
+  },
+  {
+    id: 5,
+    title: "Mechanical Gaming Keyboard",
+    price: 5999,
+    category: "Electronics",
+    image: "https://picsum.photos/400/400?random=5",
+    rating: 4.7,
+  },
+  {
+    id: 6,
+    title: "Premium Coffee Mug",
+    price: 899,
+    category: "Home",
+    image: "https://picsum.photos/400/400?random=6",
+    rating: 4.1,
+  },
+  {
+    id: 7,
+    title: "Wireless Gaming Mouse",
+    price: 2999,
+    category: "Electronics",
+    image: "https://picsum.photos/400/400?random=7",
+    rating: 4.5,
+  },
+  {
+    id: 8,
+    title: "Classic Men's T-Shirt",
+    price: 1499,
+    category: "Fashion",
+    image: "https://picsum.photos/400/400?random=8",
+    rating: 4.4,
+  },
+];
+
+export default products;
